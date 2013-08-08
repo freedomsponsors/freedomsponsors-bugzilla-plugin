@@ -9,7 +9,7 @@ that bug.
 
 Similar functionality is also available for Jira (see the [Jira plugin](https://github.com/freedomsponsors/freedomsponsors-jira-plugin)) and the Github issue tracker ([learn more](http://blog.freedomsponsors.org/freedomsponsors-github-integration/))
 
-![SponsorThis](http://freedomsponsors.github.com/freedomsponsors-bugzilla-plugin/screenshot.png)
+![SponsorThis](https://raw.github.com/freedomsponsors/freedomsponsors-bugzilla-plugin/master/screenshot.png)
 
 
 To install it, just
