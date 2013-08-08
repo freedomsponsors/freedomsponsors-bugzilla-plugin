@@ -7,6 +7,11 @@ Bugzilla's bug pages, just below the "Importance" bit.
 The link leads to a FreedomSponsors page where the user can place a bounty for
 that bug.
 
+Similar functionality is also available for Jira (see the [Jira plugin](https://github.com/freedomsponsors/freedomsponsors-jira-plugin)) and the Github issue tracker ([learn more](http://blog.freedomsponsors.org/freedomsponsors-github-integration/))
+
+![SponsorThis](http://freedomsponsors.github.com/freedomsponsors-bugzilla-plugin/screenshot.png)
+
+
 To install it, just
 [get the latest .zip package](https://github.com/Wurblzap/freedomsponsors-bugzilla-plugin/archive/master.zip)
 and extract the package's contents into the "extensions" subdirectory of your
