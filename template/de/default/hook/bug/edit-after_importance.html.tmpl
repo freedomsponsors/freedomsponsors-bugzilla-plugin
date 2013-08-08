@@ -7,9 +7,10 @@
   #%]
 [% IF bug.isopened %]
   <br>
-  <a href="http://www.freedomsponsors.org/core/issue/sponsor?
-           [%%]trackerURL=[% cgi.url %]?id=[% bug.id %]"
-     class="freedomsponsors">
-    [% terms.Bug %]&nbsp;[% bug.id %] bei FreedomSponsors.org sponsern
-  </a>
+  <div class="freedomsponsors">
+    <a href="http://www.freedomsponsors.org/core/issue/sponsor?
+             [%%]trackerURL=[% cgi.url %]?id=[% bug.id %]">
+      [% terms.Bug %]&nbsp;[% bug.id %] bei FreedomSponsors.org sponsern
+    </a>
+  </div>
 [% END %]

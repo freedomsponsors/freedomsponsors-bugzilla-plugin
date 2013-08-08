@@ -6,15 +6,15 @@
  * defined by the Mozilla Public License, v. 2.0.
  */
 
-a.freedomsponsors {
+div.freedomsponsors a {
   color: green;
   font-weight: bold;
 }
 
-a.freedomsponsors:hover {
+div.freedomsponsors a:hover{
   color: #00cc00;
 }
 
-a.freedomsponsors:active {
+div.freedomsponsors a:active {
   color: #00ff00;
 }
