@@ -7,8 +7,8 @@ Bugzilla's bug pages, just below the "Importance" bit.
 The link leads to a FreedomSponsors page where the user can place a bounty for
 that bug.
 
-To install it, just get the latest version .tar.gz package from the
-[download section](https://github.com/Wurblzap/freedomsponsors-bugzilla-plugin/downloads)
+To install it, just
+[get the latest .zip package](https://github.com/Wurblzap/freedomsponsors-bugzilla-plugin/archive/master.zip)
 and extract the package's contents into the "extensions" subdirectory of your
 Bugzilla installation, so that inside the "extensions" directory there is a
-new directory called FreedomSponsors with some content.
+new directory called freedomsponsors-bugzilla-plugin-master with some content.
