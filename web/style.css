@@ -6,6 +6,10 @@
  * defined by the Mozilla Public License, v. 2.0.
  */
 
+div.freedomsponsors {
+	margin-top: 4px;
+}
+
 div.freedomsponsors a {
   color: green;
   font-weight: bold;
