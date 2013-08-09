@@ -12,6 +12,8 @@ Similar functionality is also available for Jira (see the [Jira plugin](https://
 ![SponsorThis](https://raw.github.com/freedomsponsors/freedomsponsors-bugzilla-plugin/master/screenshot.png)
 
 
+## Installation
+
 To install it, just
 [get the latest .zip package](https://github.com/Wurblzap/freedomsponsors-bugzilla-plugin/archive/master.zip)
 and extract the package's contents into the "extensions" subdirectory of your
