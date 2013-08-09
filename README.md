@@ -15,7 +15,7 @@ Similar functionality is also available for Jira (see the [Jira plugin](https://
 ## Installation
 
 To install it, just
-[get the latest .zip package](https://github.com/Wurblzap/freedomsponsors-bugzilla-plugin/archive/master.zip)
+[get the latest .zip package](https://github.com/freedomsponsors/freedomsponsors-bugzilla-plugin/releases/download/v1.1/master.zip)
 and extract the package's contents into the "extensions" subdirectory of your
 Bugzilla installation, so that inside the "extensions" directory there is a
 new directory called freedomsponsors-bugzilla-plugin-master with some content.
